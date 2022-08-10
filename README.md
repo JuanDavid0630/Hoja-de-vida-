@@ -2,7 +2,8 @@
 ## Juan David Garcia Gomez
 <a href="https://ibb.co/FJ0yzjs"><img src="https://i.ibb.co/FJ0yzjs/DSC-0498-1.jpg" alt="DSC-0498-1" border="0"></a>
 
-- Hola mi nombre es Juan David Garcia Vivo en Santo domingo Tengo 18 años Soy aprendiz del sena en analizis y desarrollo de sofware. C
+- Hola mi nombre es Juan David Garcia Vivo en Santo domingo Tengo 18 años Soy aprendiz del sena en analizis y desarrollo de sofware. Cuento con mucho conocimiento
+  en la tecnologia. 
 ## Formacion
 - Primaria Colegio Infantil Popis 2010 - 2015
 - Secundaria I.E.D Costa Caribe 2016 - 2021

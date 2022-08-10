@@ -5,8 +5,9 @@
 - Hola mi nombre es Juan David Garcia Vivo en Santo domingo Tengo 18 años Soy aprendiz del sena en analizis y desarrollo de sofware. Cuento con mucho conocimiento
   en la tecnologia. 
 ## Formacion
-- Primaria Colegio Infantil Popis 2010 - 2015
-- Secundaria I.E.D Costa Caribe 2016 - 2021
+| Primaria  |  Colegio Infantil Popis | 2010  |  2015 |
+|---|---|---|---|
+| **Secundaria**  | **I.E.D Costa Caribe**  | **2016**  |  **2021** |
 ## Datos Personales
 - Nombre :       Juan David Garcia Gomez
 - Documento de Identidad :  1.044.603.866 
